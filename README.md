@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **malakars041@gmail.com || https://www.linkedin.com/in/suman-malakar-711aa3171/**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/12oQ-Pdyeho-A-G2QLRecuJIgYEndebOv](https://drive.google.com/drive/u/0/folders/12oQ-Pdyeho-A-G2QLRecuJIgYEndebOv)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ilgF7u-87_OdjnnN8oEPd_hfaaguTijK/view?usp=sharing](https://drive.google.com/file/d/1ilgF7u-87_OdjnnN8oEPd_hfaaguTijK/view?usp=sharing)
 
 - ⚡ Fun fact **I'm very helpfull Person**
 
