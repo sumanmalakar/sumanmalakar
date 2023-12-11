@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm SUMAN MALAKAR</h1>
+<h1 align="center">Hi 👋, I'm Web Dev Mastery</h1>
 <h3 align="center">A passionate Competitive Programmer && Web Developer from India</h3>
 
 
