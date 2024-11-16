@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [https://1drv.ms/w/s!AiVM47LVaCTTiEN1SX_36llSnztS?e=2lUtML](https://1drv.ms/w/s!AiVM47LVaCTTiEN1SX_36llSnztS?e=2lUtML)
 
-- ⚡ Fun fact **I'm very helpfull Person**
+- ⚡ Fun fact **I'm very Helpfull && Humble Person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
