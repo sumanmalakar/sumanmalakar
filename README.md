@@ -27,15 +27,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/suman-malakar-711aa3171" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suman-malakar-711aa3171" height="30" width="40" /></a>
-  
 <a href="https://fb.com/sumankumar.malakar.9" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sumankumar.malakar.9" height="30" width="40" /></a>
-
 <a href="https://instagram.com/suman_malakar001" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suman_malakar001" height="30" width="40" /></a>
-
 <a href="https://www.hackerrank.com/malakars0411" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="malakars041" height="30" width="40" /></a> 
-
 <a href="https://www.leetcode.com/sumanmalakar0" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sumanmalakar" height="30" width="40" /></a>
-
 <a href="https://auth.geeksforgeeks.org/user/malakars0411/practice" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="malakars041/practice" height="30" width="40" /></a>
 </p>
 
