@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **malakars041@gmail.com || https://www.linkedin.com/in/suman-malakar-711aa3171/**
 
-- 📄 Know about my experiences [http://1drv.ms/w/s!AiVM47LVaCTTiEN1SX_36llSnztS?e=2lUtML](https://1drv.ms/w/s!AiVM47LVaCTTiEN1SX_36llSnztS?e=2lUtML)
+- 📄 Know about my experiences [http:/1drv.ms/w/s!AiVM47LVaCTTiEN1SX_36llSnztS?e=2lUtML](https://1drv.ms/w/s!AiVM47LVaCTTiEN1SX_36llSnztS?e=2lUtML)
 
 - ⚡ Fun fact **I'm very Helpfull && Humble Person**
 
